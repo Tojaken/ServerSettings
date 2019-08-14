@@ -157,7 +157,7 @@ cheat GMsummon
 
 
 
-
+cheat GFI Artifact_12 1 0 0|cheat giveitemnum 152 1 0 0|cheat GFI Artifact_11 1 0 0|cheat giveitemnum 154 1 0 0|cheat giveitemnum 148 1 0 0|cheat giveitemnum 155 1 0 0|cheat giveitemnum 150 1 0 0|cheat giveitemnum 149 1 0 0|cheat giveitemnum 153 1 0 0|cheat giveitemnum 156 1 0 0|cheat GFI ApexDrop_Megalania 10 0 0|cheat giveitemnum 159 10 0 0|cheat giveitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Spino.PrimalItemResource_ApexDrop_Spino'" 25 0 0|cheat GFI ApexDrop_Theriz 10 0 0|cheat GFI ApexDrop_Thylaco 10 0 0|cheat giveitemnum 158 10 0 0|cheat giveitemnum 158 10 0 0|cheat giveitemnum 161 10 0 0|cheat GFI ApexDrop_Boa 10 0 0|cheat GFI ApexDrop_Allo 10 0 0|cheat GFI ApexDrop_Basilo 10 0 0|cheat GFI ApexDrop_Giga 10 0 0|cheat GFI ApexDrop_Tuso 10 0 0|cheat giveitemnum 160 25 0 0|cheat GFI ApexDrop_Yuty 10 0 0|cheat giveitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Sarco.PrimalItemResource_ApexDrop_Sarco'" 25 0 0
 
 
 
