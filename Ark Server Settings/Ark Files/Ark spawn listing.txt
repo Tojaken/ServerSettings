@@ -163,3 +163,24 @@ cheat GFI Artifact_12 1 0 0|cheat giveitemnum 152 1 0 0|cheat GFI Artifact_11 1 
 
 
 889745138,633831197,895711211,1609138312,1273112284,731604991,821530042,812655342,1272757707,622608522,877596905,1521673583,1404697612,861066940,879034965,1818218046,833379388,764755314
+
+
+
+Spawn Codes
+Taming Tonic
+cheat giveitem cheat giveitem cheat giveitem "/Game/Mods/TamingTools/Drugs/TamingTonic/PrimalItemConsumable_TamingTonic.PrimalItemConsumable_TamingTonic" 100 0 0 false
+
+Refined Narcotics
+cheat giveitem "/Game/Mods/TamingTools/Drugs/RefinedNarcotic/PrimalItemConsumable_RefinedNarcotic.PrimalItemConsumable_RefinedNarcotic" 100 0 0 false
+
+Refined Tranq Arrow
+cheat giveitem "/Game/Mods/TamingTools/Ammo/TranqArrow_Refined/PrimalItemAmmo_ArrowRefinedTranq.PrimalItemAmmo_ArrowRefinedTranq" 100 0 0 false
+
+Injector Arrows (Empty)
+cheat giveitem "/Game/Mods/TamingTools/Ammo/InjectorArrow/PrimalItemAmmo_InjectorArrow.PrimalItemAmmo_InjectorArrow" 100 0 0 false
+
+Injector Tranq Arrow
+cheat giveitem "/Game/Mods/TamingTools/Ammo/InjectorArrow_Tranq/PrimalItemAmmo_InjectorArrow_Tranq.PrimalItemAmmo_InjectorArrow_Tranq" 100 0 0 false
+
+Injector Refined Tranq Arrows
+cheat giveitem "/Game/Mods/TamingTools/Ammo/InjectorArrow_TranqRefined/PrimalItemAmmo_InjectorArrow_TranqRefined.PrimalItemAmmo_InjectorArrow_TranqRefined" 100 0 0 false
